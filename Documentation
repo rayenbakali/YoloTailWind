@@ -1,0 +1,9 @@
+CSS Framewor
+Much lower than bootstrap
+
+example for making a card :
+class="rounded shadow p-2 bg-white" 
+
+More flexible than bootstrap and any other framework
+(Generally we can look at a websita and know if it was made using 
+bootstrap or material ui )
