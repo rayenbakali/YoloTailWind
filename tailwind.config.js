@@ -11,6 +11,9 @@ module.exports = {
         },
       },
     },
+    fontFamily: {
+      body: ["Nunito"],
+    },
   },
   plugins: [],
 };
